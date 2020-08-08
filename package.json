@@ -1,0 +1,22 @@
+{
+  "name": "form-filler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbochynski/form-filler.git"
+  },
+  "author": "MB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbochynski/form-filler/issues"
+  },
+  "homepage": "https://github.com/mbochynski/form-filler#readme",
+  "dependencies": {
+    "puppeteer-core": "^5.2.1"
+  }
+}
